@@ -9,7 +9,7 @@
 // let { toString:s} = 123;
 // console.log(s);
 let o1 = {
-    a: 1
+    a: 11
 };
 let o2 = {
     b: 2
